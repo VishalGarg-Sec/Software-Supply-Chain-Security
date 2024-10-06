@@ -289,6 +289,7 @@ None
 
 ## Trainings
 * [cicd-goat](https://github.com/cider-security-research/cicd-goat) - Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, capture the flags.
+* [Certified Software Supply Chain Security Course](https://www.practical-devsecops.com/certified-software-supply-chain-security-expert/) - CSSE offers comprehensive training on identifying, validating, and mitigating software supply chain risks through hands-on exercises. Covers everything from third-party code to cloud services, aligning with industry frameworks like MITRE ATT&CK and NIST SSDF.
 
 ## Webinars
 * [Endor Labs webinars](https://www.endorlabs.com/resources-overview)
